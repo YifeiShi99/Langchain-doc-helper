@@ -1,4 +1,4 @@
-#LangChain Doc Heler (LangChain Practice)
+# LangChain Doc Heler (LangChain Practice)
 
 ## Description
 weba application that uses Pinecone as a vectorsotre and answers questions about the given documents using LangChain and OpenAi
